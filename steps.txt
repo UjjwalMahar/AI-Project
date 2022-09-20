@@ -1,0 +1,3 @@
+First 1 = Speech reg complete
+second = Open Browser with help of SR
+third = Screach something with help of SR
